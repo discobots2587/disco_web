@@ -32,7 +32,7 @@ function ButtonAppBar(props) {
         <Toolbar>
           <SideBar />
           <Typography variant="title" color="inherit" className={classes.flex}>
-            8trac
+            Disco Bots
             <StoreComponent/>
           </Typography>
           <Button color="inherit"><AccountCircleIcon/></Button>
