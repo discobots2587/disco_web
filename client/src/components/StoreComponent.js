@@ -11,7 +11,7 @@ class StoreComponent extends React.Component {
 
   render() {
     return(
-      <div>hello from connected component</div>
+      <div></div>
     );
   }
 }
